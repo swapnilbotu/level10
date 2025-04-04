@@ -39,4 +39,3 @@ int main(int argc, char *argv[])
 
     freeAA(lines, lineCount);
 }
-
